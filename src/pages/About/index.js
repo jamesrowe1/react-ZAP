@@ -10,5 +10,6 @@ function About() {
     </div>
   );
 }
+//going to add cards with our names and github attached down here
 
 export default About;
